@@ -20,7 +20,6 @@ I am a passionate **Embedded Software Engineer** specializing in building robust
 * **Custom Yocto Layer:** Designed a custom meta-layer to optimize boot time by 25%.
 * **Driver Development:** Implemented hardware-accelerated drivers for specialized peripherals.
 * **Security:** Integrating **HAB (High Assurance Boot)** for secure system verification.
-* [👉 View Project Repository](https://github.com/your-id/imx8m-quad-project)
 * [👉 View Project Repository](https://github.com/jinho-yoo/imx8m-quad-embedded-linux)
 
 ---
