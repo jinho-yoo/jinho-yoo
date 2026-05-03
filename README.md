@@ -1,6 +1,7 @@
 # Hi, I'm Jinho 👋
 
 ## Professional Summary
+
 ### Embedded Software Engineer | Linux Kernel & System Architect
 
 I am a passionate **Embedded Software Engineer** specializing in building robust, high-performance systems from low-level hardware abstraction to user-space applications. Currently, I am focused on mastering **i.MX8M Quad** platforms and modernizing legacy embedded systems.
