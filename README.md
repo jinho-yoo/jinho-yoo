@@ -1,6 +1,6 @@
 # Hi, I'm Jinho 👋
 
-## Professional Summary
+## 📝 Professional Summary
 
 ### Embedded Software Engineer | Linux Kernel & System Architect
 
@@ -8,7 +8,7 @@ I am a passionate **Embedded Software Engineer** specializing in building robust
 
 ---
 
-## 🚀 Core Expertise and Skills
+## 📝 Core Expertise and Skills
 * **Architectures:** ARMv8-A (i.MX8M Quad), ARMv5TE (i.MX21), Cortex-A/M series.
 * **System Software:** U-Boot customization, Linux Kernel porting, Device Tree (DTS) optimization.
 * **Build Systems:** **Yocto Project** (Custom Layers/Recipes), Buildroot, Makefile/CMake.
@@ -17,7 +17,7 @@ I am a passionate **Embedded Software Engineer** specializing in building robust
 
 ---
 
-## 🛠️ Featured Project: i.MX8M Quad High-Performance System
+## 📝 Featured Project: i.MX8M Quad High-Performance System
 > **Goal:** Developing a production-ready Embedded Linux distribution with a focus on security and performance.
 
 * **Custom Yocto Layer:** Designed a custom meta-layer to optimize boot time by 25%.
